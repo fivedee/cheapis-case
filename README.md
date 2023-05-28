@@ -3,7 +3,7 @@ A case for the [Cheapis](https://github.com/dotleon/cheapis) by [@dotleon](https
 
 ngl this case probably wont work ill write a better and less sarcastic readme once someone i know can print this case
 
-oh btw you need [3mm standoffs and some screws (4mm?)](https://keeb.io/collections/diy-parts/products/m2-screws-and-standoffs) to screw the pcb to the case
+oh btw you need [3mm standoffs and some screws (4mm max)](https://keeb.io/collections/diy-parts/products/m2-screws-and-standoffs) to screw the pcb to the case
 
 Q&A:
 
